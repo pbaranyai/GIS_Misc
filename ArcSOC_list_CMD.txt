@@ -1,3 +1,4 @@
 tasklist | find "ArcSOC.exe" /c
 
-Run in CMD window on CCORBWEAVER
+Run in CMD window on SERVER MACHINE
+Used in Windows CMD window on ArcGIS Server machine to ascertain how many Arc_SOC instances are running.
